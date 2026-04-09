@@ -843,7 +843,7 @@ st.dataframe(
 st.markdown("---")
 st.markdown(f"""
 <div style='text-align: center; color: white; padding: 20px;'>
-    <p>© ٢٠٢٦ الإدارة العامة للمرور - وزارة الداخلية</p>
+    <p>© Nawaf Alorabi</p>
     <p style='opacity: 0.8;'>البيانات الحقيقية: {len(df):,} سجل | {len(df['city'].unique())} مدينة</p>
 </div>
 """, unsafe_allow_html=True)
