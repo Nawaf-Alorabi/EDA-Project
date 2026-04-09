@@ -4,3 +4,10 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
